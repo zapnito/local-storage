@@ -1,5 +1,5 @@
 
-var _elm_lang$local_storage$Native_LocalStorage = function() {
+var _zapnito$local_storage$Native_LocalStorage = function() {
 
 function get(key)
 {
